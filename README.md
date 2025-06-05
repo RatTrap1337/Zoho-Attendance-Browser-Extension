@@ -178,6 +178,6 @@ We welcome educational contributions! Please see [DEVELOPMENT.md](docs/DEVELOPME
 
 ---
 
-**Made with ❤️ for productivity and automation**
+**Made with ❤️ for productivity, automation and learning**
 
 > 🔗 **Related**: Check out our [Docker API version](https://github.com/RatTrap1337/Zoho-Attendance-Manager) for learning server-side automation concepts!
